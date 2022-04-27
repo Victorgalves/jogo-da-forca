@@ -44,3 +44,4 @@ while True:
     if letra not in palavra_secreta:
         chances-= 1
         print(f'você só tem {chances} chances.' )
+        
